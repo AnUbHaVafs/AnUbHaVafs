@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhavafs&label=Profile%20views&color=0e75b6&style=flat" alt="anubhavafs" /> </p>
 
-- 🔭 I’m currently working on **BuyKart**
+- 🔭 I’m currently working on **BuyKart-My Ecommerce Platform**
 
-- 👨‍💻 All of my projects are available at [https://bucolic-concha-e88b65.netlify.app/](https://bucolic-concha-e88b65.netlify.app/)
+- 👨‍💻 Portfolio :  [https://bucolic-concha-e88b65.netlify.app/](https://bucolic-concha-e88b65.netlify.app/)
 
 - 💬 Ask me about **MERN stack / DSA / C++**
 
