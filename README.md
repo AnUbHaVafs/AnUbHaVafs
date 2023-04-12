@@ -12,6 +12,7 @@
 - 📫 How to reach me **annubhav002@gmail.com**
 
 - 📄 Know about my experiences [Full Stack Intern at Todquest Enterprises Pvt. Ltd.](Full Stack Intern at Todquest Enterprises Pvt. Ltd.)
+![gitlab](https://user-images.githubusercontent.com/76126067/231536909-27ba555e-77dd-4058-bdfb-b83313574f77.png)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
