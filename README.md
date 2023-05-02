@@ -5,7 +5,7 @@
 
 - 🔭 SDE Intern at Fyllo.
 
-- 📄 Experience : Prior Internhsips as <h5>Fᴜʟʟ Sᴛᴀᴄᴋ Iɴᴛᴇʀɴ</h5> @Todquest Enterprises Pvt. Ltd., Problem Setter @Intervue.io, Technical Content writer @FavTutor, Junior Full Stack Developer @Prabhavati Digital Services Pvt. Ltd.
+- 📄 Experience : Prior Internhsips as <b>Fᴜʟʟ Sᴛᴀᴄᴋ Iɴᴛᴇʀɴ</b> @Todquest Enterprises Pvt. Ltd., Problem Setter @Intervue.io, Technical Content writer @FavTutor, Junior Full Stack Developer @Prabhavati Digital Services Pvt. Ltd.
 
 
 - 👨‍💻 Portfolio :  [https://bucolic-concha-e88b65.netlify.app/](https://bucolic-concha-e88b65.netlify.app/)
