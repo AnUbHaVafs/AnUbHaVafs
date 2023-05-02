@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhavafs&label=Profile%20views&color=0e75b6&style=flat" alt="anubhavafs" /> </p>
 
-- 🔭 I’m currently working on **BuyKart-My Ecommerce Platform**
+- 🔭 SDE Intern at Fyllo.
 
 - 👨‍💻 Portfolio :  [https://bucolic-concha-e88b65.netlify.app/](https://bucolic-concha-e88b65.netlify.app/)
 
-- 💬 Ask me about **MERN stack / DSA / C++**
+- 💬 Ask me about **MERN stack / DSA / C++ / Javascript / Blockchain**
 
 - 📫 How to reach me **annubhav002@gmail.com**
 
-- 📄 Know about my experiences [Full Stack Intern at Todquest Enterprises Pvt. Ltd.]
+- 📄 Experience : Prior Internhsips as Full Stack Intern @Todquest Enterprises Pvt. Ltd., Problem Setter @Intervue.io, Technical Content writer @FavTutor, Junior Full Stack Developer @Prabhavati Digital Services Pvt. Ltd.
 
 - My Gitlab Map : Contribution Towards Private Repositories/Projects.
 ![gitlab](https://user-images.githubusercontent.com/76126067/231536909-27ba555e-77dd-4058-bdfb-b83313574f77.png)
