@@ -5,13 +5,16 @@
 
 - 🔭 SDE Intern at Fyllo.
 
+- 📄 Experience : Prior Internhsips as <h5>Fᴜʟʟ Sᴛᴀᴄᴋ Iɴᴛᴇʀɴ</h5> @Todquest Enterprises Pvt. Ltd., Problem Setter @Intervue.io, Technical Content writer @FavTutor, Junior Full Stack Developer @Prabhavati Digital Services Pvt. Ltd.
+
+
 - 👨‍💻 Portfolio :  [https://bucolic-concha-e88b65.netlify.app/](https://bucolic-concha-e88b65.netlify.app/)
 
 - 💬 Ask me about **MERN stack / DSA / C++ / Javascript / Blockchain**
 
 - 📫 How to reach me **annubhav002@gmail.com**
 
-- 📄 Experience : Prior Internhsips as Full Stack Intern @Todquest Enterprises Pvt. Ltd., Problem Setter @Intervue.io, Technical Content writer @FavTutor, Junior Full Stack Developer @Prabhavati Digital Services Pvt. Ltd.
+
 
 - My Gitlab Map : Contribution Towards Private Repositories/Projects.
 ![gitlab](https://user-images.githubusercontent.com/76126067/231536909-27ba555e-77dd-4058-bdfb-b83313574f77.png)
