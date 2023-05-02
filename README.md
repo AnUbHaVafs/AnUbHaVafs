@@ -3,21 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhavafs&label=Profile%20views&color=0e75b6&style=flat" alt="anubhavafs" /> </p>
 
-- 🔭 SDE Intern at Fyllo.
+- 👨‍💻 𝐒𝐃𝐄 𝐈𝐧𝐭𝐞𝐫𝐧 at Fyllo.
 
-- 📄 Experience : <ul>Prior Internhsips as <li><b>Fᴜʟʟ Sᴛᴀᴄᴋ Iɴᴛᴇʀɴ</b> @Todquest Enterprises Pvt. Ltd.</li> <li> Problem Setter @Intervue.io </li> <li>Technical Content writer @FavTutor</li> <li>Junior Full Stack Developer @Prabhavati Digital Services Pvt. Ltd.</li></ul>
+- 📄 Experience [Prior Internships at] : <ul><li><b>Fᴜʟʟ Sᴛᴀᴄᴋ Iɴᴛᴇʀɴ</b> @Todquest Enterprises Pvt. Ltd.</li> <li><b> Problem Setter (DSA)</b> @Intervue.io </li> <li><b>Technical Content writer </b>@FavTutor</li> <li><b>Junior Full Stack Developer</b> @Prabhavati Digital Services Pvt. Ltd.</li></ul>
 
 
-- 👨‍💻 Portfolio :  [https://bucolic-concha-e88b65.netlify.app/](https://bucolic-concha-e88b65.netlify.app/)
+- 🔭 Portfolio :  [https://bucolic-concha-e88b65.netlify.app/](https://bucolic-concha-e88b65.netlify.app/)
 
 - 💬 Ask me about **MERN stack / DSA / C++ / Javascript / Blockchain**
 
 - 📫 How to reach me **annubhav002@gmail.com**
 
-
-
-- My Gitlab Map : Contribution Towards Private Repositories/Projects.
-![gitlab](https://user-images.githubusercontent.com/76126067/231536909-27ba555e-77dd-4058-bdfb-b83313574f77.png)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,3 +33,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anubhavafs&show_icons=true&locale=en" alt="anubhavafs" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anubhavafs&" alt="anubhavafs" /></p>
+
+- My Gitlab Map : Contribution Towards Private Repositories/Projects.
+![gitlab](https://user-images.githubusercontent.com/76126067/231536909-27ba555e-77dd-4058-bdfb-b83313574f77.png)
