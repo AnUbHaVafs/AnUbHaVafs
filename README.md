@@ -5,7 +5,7 @@
 
 - 👨‍💻 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 𝐈𝐧𝐭𝐞𝐫𝐧 at Fyllo. (1.5 months)
 
-- 📄 Experience [Prior Internships at] : <ul><li><b>Fᴜʟʟ Sᴛᴀᴄᴋ Iɴᴛᴇʀɴ</b> @Todquest Enterprises Pvt. Ltd.</li> <li><b> Problem Setter (DSA)</b> @Intervue.io </li> <li><b>Technical Content writer </b>@FavTutor</li> <li><b>Junior Full Stack Developer</b> @Prabhavati Digital Services Pvt. Ltd.</li></ul>
+- 📄 Experience [Prior Internships at] : <ul><li><b>Fᴜʟʟ Sᴛᴀᴄᴋ Iɴᴛᴇʀɴ</b> @Todquest Enterprises Pvt. Ltd.(3 months)</li> <li><b> Problem Setter (DSA)</b> @Intervue.io (8 months) </li> <li><b>Technical Content writer </b>@FavTutor(2 months)</li> <li><b>Junior Full Stack Developer</b> @Prabhavati Digital Services Pvt. Ltd.(3 months)</li></ul>
 
 
 - 🔭 Portfolio :  [https://bucolic-concha-e88b65.netlify.app/](https://bucolic-concha-e88b65.netlify.app/)
