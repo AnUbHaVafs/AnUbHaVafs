@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Anubhav Agrawal</h1>
-<h3 align="center">Full Stack Developer | Problem Solver | Data Structures and Algorithms</h3>
+<h1 align="center">Hello 👋, I'm Anubhav Agrawal</h1>
+<h3 align="center">About ME ? "Backend"+ "Frontend" + "Leetcode" + "Research Oriented"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhavafs&label=Profile%20views&color=0e75b6&style=flat" alt="anubhavafs" /> </p>
 
-- 👨‍💻 𝐒𝐃𝐄 𝐈𝐧𝐭𝐞𝐫𝐧 at Fyllo.
+- 👨‍💻 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐧𝐞𝐫 𝐈𝐧𝐭𝐞𝐫𝐧 at Fyllo. (1.5 months)
 
 - 📄 Experience [Prior Internships at] : <ul><li><b>Fᴜʟʟ Sᴛᴀᴄᴋ Iɴᴛᴇʀɴ</b> @Todquest Enterprises Pvt. Ltd.</li> <li><b> Problem Setter (DSA)</b> @Intervue.io </li> <li><b>Technical Content writer </b>@FavTutor</li> <li><b>Junior Full Stack Developer</b> @Prabhavati Digital Services Pvt. Ltd.</li></ul>
 
