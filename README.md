@@ -30,5 +30,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anubhavafs&" alt="anubhavafs" /></p>
 
-- My Gitlab Map : Contribution Towards Private Repositories/Projects.
-![gitlab](https://user-images.githubusercontent.com/76126067/231536909-27ba555e-77dd-4058-bdfb-b83313574f77.png)
