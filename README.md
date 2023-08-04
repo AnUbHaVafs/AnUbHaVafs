@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anubhav Agrawal!</h1>
-<h5 align="center">About ME ? </h5>
-<h3 align="center"> (Leetcode) +  (TS,React) + (JS,Node,MongoDB,MySql) + (Jenkins,AWS) + "Experience in Building Products"</h3>
+<h4 align="center">About ME ? </h4>
+<h3 align="center"> (Leetcode) +  Frontend-(TS,React) + Backend-(JS,Node,MongoDB,MySql) + DevOps-(Jenkins,AWS)</h3>
+<h4 align="center">"Experience in Building Products"</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhavafs&label=Profile%20views&color=0e75b6&style=flat" alt="anubhavafs" /> </p>
 
