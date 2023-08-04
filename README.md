@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Anubhav Agrawal!</h1>
 <h4 align="center">About ME ? </h4>
-<h3 align="center"> (Leetcode) +  Frontend-(TS,React) + Backend-(JS,Node,MongoDB,MySql) + DevOps-(Jenkins,AWS)</h3>
+<h3 align="center"> (Leetcode) +  Frontend-(𝖳𝖲,𝖱𝖾𝖺𝖼𝗍) + Backend-(𝖩𝖲,𝖭𝗈𝖽𝖾,𝖬𝗈𝗇𝗀𝗈𝖣𝖡,𝖬𝗒𝖲𝗊𝗅) + DevOps-(𝖩𝖾𝗇𝗄𝗂𝗇𝗌,𝖠𝖶𝖲)</h3>
 <h4 align="center">"Experience in Building Products"</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhavafs&label=Profile%20views&color=0e75b6&style=flat" alt="anubhavafs" /> </p>
 
 - 👨‍💻 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 𝐈𝐧𝐭𝐞𝐫𝐧 at Fyllo. (3 months)
 
-- 📄 Experience [Prior Internships at] : <ul><li><b>𝖳𝖾𝖼𝗁𝗇𝗂𝖼𝖺𝗅 𝖢𝗈𝗇𝗍𝖾𝗇𝗍 𝖨𝗇𝗍𝖾𝗋𝗇</b> @Scaler Academy/Interviewbit(2 months)</li>  <li><b>𝖳𝖾𝖺𝖼𝗁𝗂𝗇𝗀 𝖠𝗌𝗌𝗂𝗌𝗍𝖺𝗇𝗍</b> @Coding Ninjas(1 month)</li> <li><b>Fᴜʟʟ Sᴛᴀᴄᴋ Iɴᴛᴇʀɴ</b> @Todquest Enterprises Pvt. Ltd.(3 months)</li> <li><b> Problem Setter (DSA)</b> @Intervue.io (8 months) </li> <li><b>Technical Content writer </b>@FavTutor(2 months)</li> <li><b>Junior Full Stack Developer</b> @Prabhavati Digital Services Pvt. Ltd.(3 months)</li></ul>
+- 📄 Experience [Prior Internships at] : <ul><li><b>𝖳𝖾𝖼𝗁𝗇𝗂𝖼𝖺𝗅 𝖢𝗈𝗇𝗍𝖾𝗇𝗍 𝖨𝗇𝗍𝖾𝗋𝗇</b> @Scaler Academy/Interviewbit (2 months)</li>  <li><b>𝖳𝖾𝖺𝖼𝗁𝗂𝗇𝗀 𝖠𝗌𝗌𝗂𝗌𝗍𝖺𝗇𝗍</b> @Coding Ninjas (1 month)</li> <li><b>Fᴜʟʟ Sᴛᴀᴄᴋ Iɴᴛᴇʀɴ</b> @Todquest Enterprises Pvt. Ltd.(3 months)</li> <li><b> Problem Setter (DSA)</b> @Intervue.io (8 months) </li> <li><b>Technical Content writer </b>@FavTutor(2 months)</li> <li><b>Junior Full Stack Developer</b> @Prabhavati Digital Services Pvt. Ltd.(3 months)</li></ul>
 
 
 - 🔭 Portfolio :  [https://bucolic-concha-e88b65.netlify.app/](https://bucolic-concha-e88b65.netlify.app/)
