@@ -1,5 +1,5 @@
-<h1 align="center">Hello 👋, I'm Anubhav Agrawal</h1>
-<h3 align="center">About ME ? "Backend"+ "Frontend" + "Leetcode" + "Research Oriented"</h3>
+<h1 align="center">Hi 👋, I'm Anubhav Agrawal!</h1>
+<h3 align="center">About ME ? "Problem Solver(Leetcode)"+ "Frontend(React,TypeScript)" + "Backend(Node,MONGODB,MYSQL)" + "DevOps(Jenkins,AWS...)" + "Experience in Building Products"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhavafs&label=Profile%20views&color=0e75b6&style=flat" alt="anubhavafs" /> </p>
 
