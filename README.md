@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **MERN stack / DSA / C++ / Javascript / Blockchain**
 
-- 📫 How to reach me **annubhav002@gmail.com**
+- 📫 How to reach me **annubhav2@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
