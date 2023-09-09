@@ -1,6 +1,6 @@
 
 <h1 align="center">I'm Anubhav Agrawal.</h1>
-<i align="center">Leetcode, C++, Technical Blogs, Full Stack, DevOps.</i>
+<h4 align="center">Leetcode, C++, Technical Blogs, Full Stack, DevOps.</h4>
 <!-- <h3 align="center"> </h3> -->
 <h4  align="center">"I think problems are everywhere, we just need people to fix them."</h4>
 
