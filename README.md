@@ -2,7 +2,7 @@
 <h1 align="center">I'm Anubhav Agrawal.</h1>
 <h4 align="center">Leetcode, C++, Technical Blogs, Full Stack, DevOps.</h4>
 <!-- <h3 align="center"> </h3> -->
-<h4 align="center">"I think problems are everywhere, we just need people to fix them."</h4>
+<i  align="center">"I think problems are everywhere, we just need people to fix them."</i>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhavafs&label=Profile%20views&color=0e75b6&style=flat" alt="anubhavafs" /> </p>
 
