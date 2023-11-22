@@ -8,7 +8,7 @@
 
 - 👨‍💻 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 𝐈𝐧𝐭𝐞𝐫𝐧 at Fyllo. (7 months)
 
-- 📄 Experience [Prior Internships at] : <ul><li><b>𝖳𝖾𝖼𝗁𝗇𝗂𝖼𝖺𝗅 𝖢𝗈𝗇𝗍𝖾𝗇𝗍 𝖨𝗇𝗍𝖾𝗋𝗇</b> @Scaler Academy/Interviewbit (2 months)</li> <li><b>Fᴜʟʟ Sᴛᴀᴄᴋ Iɴᴛᴇʀɴ</b> @Todquest Enterprises Pvt. Ltd.(3 months)</li> <li><b> Problem Setter (DSA)</b> @Intervue.io (8 months) </li> <li><b>Technical Content writer </b>@FavTutor(2 months)</li> <li><b>Junior Full Stack Developer</b> @Prabhavati Digital Services Pvt. Ltd.(3 months)</li></ul>
+- 📄 Experience [Prior Internships at] : <ul><li><b>𝖳𝖾𝖼𝗁𝗇𝗂𝖼𝖺𝗅 𝖢𝗈𝗇𝗍𝖾𝗇𝗍 𝖨𝗇𝗍𝖾𝗋𝗇</b> @Scaler Academy/Interviewbit (3 months)</li> <li><b>Fᴜʟʟ Sᴛᴀᴄᴋ Iɴᴛᴇʀɴ</b> @Todquest Enterprises Pvt. Ltd.(3 months)</li> <li><b> Problem Setter (DSA)</b> @Intervue.io (8 months) </li> <li><b>Technical Content writer </b>@FavTutor(2 months)</li> <li><b>Junior Full Stack Developer</b> @Prabhavati Digital Services Pvt. Ltd.(3 months)</li></ul>
 
 - 📫 I'm here **annubhav2@gmail.com**
 
