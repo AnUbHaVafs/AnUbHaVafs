@@ -10,6 +10,7 @@
 - 📄 Experience [Prior Internships at] : <ul><li><b>𝖳𝖾𝖼𝗁𝗇𝗂𝖼𝖺𝗅 𝖢𝗈𝗇𝗍𝖾𝗇𝗍 Writer (Freelance)</b> @Scaler Academy/Interviewbit (3 months)</li> <li><b>Fᴜʟʟ Sᴛᴀᴄᴋ Iɴᴛᴇʀɴ</b> @Todquest Enterprises Pvt. Ltd.(3 months)</li> <li><b> Problem Setter (DSA)</b> @Intervue.io (8 months) </li> <li><b>Technical Content writer </b>@FavTutor(2 months)</li> <li><b>Junior Full Stack Developer</b> @Prabhavati Digital Services Pvt. Ltd.(3 months)</li></ul>
 
 - 📫 I'm here **annubhav2@gmail.com**
+- Cracked SDE Intern Offers from "LG Soft R&D India", "Coding Ninjas", ...
 
 
 <h3 align="left">Connect with me:</h3>
