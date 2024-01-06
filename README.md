@@ -1,7 +1,7 @@
 
 <h1 align="center">Anubhav Agrawal | 2024 Graduate</h1>
 <!-- <h3 align="center"> </h3> -->
-<h4  align="center">"Find Your Purpose of Life | Innovation | Research | Tech | AI | System Design"</h4>
+<h4  align="center">"Life has Purpose | Innovation | Research | Tech | AI | System Design"</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhavafs&label=Profile%20views&color=0e75b6&style=flat" alt="anubhavafs" /> </p>
 
