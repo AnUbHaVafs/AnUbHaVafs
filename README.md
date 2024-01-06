@@ -1,6 +1,5 @@
 
 <h1 align="center">Anubhav Agrawal | 2024 Graduate</h1>
-<h4 align="center">Leetcode, C++, Technical Blogs, Full Stack, DevOps.</h4>
 <!-- <h3 align="center"> </h3> -->
 <h4  align="center">"Find Your Purpose of Life | Innovation | Research | Tech | AI | System Design"</h4>
 
