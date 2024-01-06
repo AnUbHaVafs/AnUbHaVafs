@@ -3,7 +3,6 @@
 <!-- <h3 align="center"> </h3> -->
 <h4  align="center">"Life has Purpose | Innovation | Research | Tech | AI | System Design"</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhavafs&label=Profile%20views&color=0e75b6&style=flat" alt="anubhavafs" /> </p>
 
 - 👨‍💻 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 𝐈𝐧𝐭𝐞𝐫𝐧 at Fyllo. (9 months)
 - Cracked SDE Intern Offers from "LG Soft R&D India", "Coding Ninjas", ...
