@@ -1,7 +1,6 @@
 
 <h1 align="center">Anubhav Agrawal | 2024 Graduate</h1>
 <!-- <h3 align="center"> </h3> -->
-<h4  align="center">"Life has Purpose | Innovation | Research | Tech | AI | System Design"</h4>
 
 
 - 👨‍💻 Ex-𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 𝐈𝐧𝐭𝐞𝐫𝐧 at Fyllo. (9 months) 
