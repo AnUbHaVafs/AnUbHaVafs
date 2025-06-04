@@ -4,7 +4,7 @@
 
 
 - 👨‍💻  Working @Somewhere
-- 📄 Experience [Prior at] : <ul><li><b>SDE-1</b> @Wealthy</li><li><b>SDE Intern</b> @Wealthy(3 months + PPO)</li><li><b>Software Engineer Intern</b> @Fyllo(3 + 6 months + PPO)</li><li><b>𝖳𝖾𝖼𝗁𝗇𝗂𝖼𝖺𝗅 𝖢𝗈𝗇𝗍𝖾𝗇𝗍 Writer (Freelance)</b> @Scaler Academy (3 months)</li> <li><b>Full Stack Intern</b> @Todquest (3 months)</li> <li><b> Problem Setter (DSA)</b> @Intervue.io (8 months) </li> <li><b>Technical Content writer </b>@FavTutor(2 months)</li> <li><b>Junior Full Stack Developer</b> @Prabhavati (3 months)</li></ul>
+- 📄 Experience [Prior at] : <ul><li><b>SDE-1</b> @Wealthy</li><li><b>SDE Intern</b> @Wealthy (3 months + PPO)</li><li><b>Software Engineer Intern</b> @Fyllo (3 + 6 months + PPO)</li><li><b>𝖳𝖾𝖼𝗁𝗇𝗂𝖼𝖺𝗅 𝖢𝗈𝗇𝗍𝖾𝗇𝗍 Writer (Freelance)</b> @Scaler Academy (3 months)</li> <li><b>Full Stack Intern</b> @Todquest (3 months)</li> <li><b> Problem Setter (DSA)</b> @Intervue.io (8 months) </li> <li><b>Technical Content writer </b>@FavTutor(2 months)</li> <li><b>Junior Full Stack Developer</b> @Prabhavati (3 months)</li></ul>
 - 📫 I'm here **annubhav2@gmail.com**
 
 
