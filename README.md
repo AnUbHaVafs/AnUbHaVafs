@@ -3,8 +3,8 @@
 <!-- <h3 align="center"> </h3> -->
 
 
-- 👨‍💻 Ex-𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 𝐈𝐧𝐭𝐞𝐫𝐧 at Fyllo. (9 months) 
-- 📄 Experience [Prior Internships at] : <ul><li><b>𝖳𝖾𝖼𝗁𝗇𝗂𝖼𝖺𝗅 𝖢𝗈𝗇𝗍𝖾𝗇𝗍 Writer (Freelance)</b> @Scaler Academy/Interviewbit (3 months)</li> <li><b>Fᴜʟʟ Sᴛᴀᴄᴋ Iɴᴛᴇʀɴ</b> @Todquest Enterprises Pvt. Ltd.(3 months)</li> <li><b> Problem Setter (DSA)</b> @Intervue.io (8 months) </li> <li><b>Technical Content writer </b>@FavTutor(2 months)</li> <li><b>Junior Full Stack Developer</b> @Prabhavati Digital Services Pvt. Ltd.(3 months)</li></ul>
+- 👨‍💻  Working @Somewhere
+- 📄 Experience [Prior Internships at] : <ul><li><b>SDE-1</b>@Wealthy</li><li><b>SDE Intern</b>@Wealthy(3 months + PPO)</li><li><b>𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 𝐈𝐧𝐭𝐞𝐫𝐧</b>@Fyllo(3 + 6 months + PPO)</li><li><b>𝖳𝖾𝖼𝗁𝗇𝗂𝖼𝖺𝗅 𝖢𝗈𝗇𝗍𝖾𝗇𝗍 Writer (Freelance)</b> @Scaler Academy/Interviewbit (3 months)</li> <li><b>Fᴜʟʟ Sᴛᴀᴄᴋ Iɴᴛᴇʀɴ</b> @Todquest Enterprises Pvt. Ltd.(3 months)</li> <li><b> Problem Setter (DSA)</b> @Intervue.io (8 months) </li> <li><b>Technical Content writer </b>@FavTutor(2 months)</li> <li><b>Junior Full Stack Developer</b> @Prabhavati Digital Services Pvt. Ltd.(3 months)</li></ul>
 - 📫 I'm here **annubhav2@gmail.com**
 
 
