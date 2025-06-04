@@ -9,13 +9,6 @@
 - 📫 I'm here **annubhav2@gmail.com**
 
 
-- I'm building World Web Flow (my personal project) :
-
-![Screenshot (2659)](https://github.com/AnUbHaVafs/AnUbHaVafs/assets/76126067/bf2f8f66-c313-43fe-8fa8-1c2eda9e5e29)
-![Screenshot (2660)](https://github.com/AnUbHaVafs/AnUbHaVafs/assets/76126067/b620d322-6312-4a09-ae0e-4b7b33165987)
-![Mobile UI (2)](https://github.com/AnUbHaVafs/AnUbHaVafs/assets/76126067/6896bbd4-7afa-4160-ac07-597dc685813f)
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  <a href="https://www.leetcode.com/https://leetcode.com/annubhav001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/annubhav001/" height="30" width="40" /></a>
